@@ -26,6 +26,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         manish classes
+        Charvi
       </p>
     </div>
   )
